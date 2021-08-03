@@ -1,13 +1,10 @@
-import 'dart:developer';
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   List<String> questions = [
-    'What\'s ypur favorite color?',
+    'What\'s your favorite color?',
     'What\'s your favorite animal?'
   ];
 
