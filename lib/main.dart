@@ -30,6 +30,7 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
             Card(
+              color: Colors.red,
               child: Text('List of TX'),
             ),
           ],
