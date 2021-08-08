@@ -77,7 +77,7 @@ class MyHomePage extends StatelessWidget {
                           tx.title,
                           textAlign: TextAlign.left,
                           style: TextStyle(
-                            fontSize: 16,
+                            fontSize: 18,
                             fontWeight: FontWeight.bold,
                           ),
                         ),
